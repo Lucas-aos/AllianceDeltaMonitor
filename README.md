@@ -63,12 +63,7 @@ No Python installation is required.
 ## Build executable
 
 To build the executable manually:
-pyinstaller --noconfirm --windowed
---name AllianceDeltaMonitor
---icon=delta.ico
---add-data "tesseract;tesseract"
---add-data "delta.ico;."
-delta_pressure.py
+pyinstaller --noconfirm --windowed --name AllianceDeltaMonitor --icon=delta.ico --add-data "tesseract;tesseract" --add-data "delta.ico;." delta_pressure.py
 
 ---
 

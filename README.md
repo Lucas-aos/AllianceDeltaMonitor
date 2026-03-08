@@ -10,6 +10,8 @@ This tool reads the **pressure value displayed in the instrument software** usin
 
 The program runs as a lightweight **transparent overlay window** that can be positioned over the instrument software interface.
 
+🇧🇷 Portuguese version available in [LEIAME.md](LEIAME.md)
+
 ---
 
 # Features

@@ -28,7 +28,7 @@ O programa funciona como uma **janela transparente leve**, que pode ser posicion
 
 ### 1. Abrir a janela Instrument Status
 
-No software Waters Alliance, abra o painel **Instrument Status**.
+No software Empower 3, abra o painel **Instrument Status**.
 
 Essa janela normalmente pode ser acessada através de um dos seguintes caminhos:
 

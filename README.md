@@ -28,7 +28,7 @@ The program runs as a lightweight **transparent overlay window** that can be pos
 
 ### 1. Open the Instrument Status window
 
-In the Waters Alliance software, open the **Instrument Status** panel.
+In the Empower 3 software, open the **Instrument Status** panel.
 
 This window can usually be accessed through one of the following menu paths:
 

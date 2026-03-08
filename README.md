@@ -13,6 +13,25 @@ The program runs as a lightweight **transparent overlay window** that can be pos
 🇧🇷 Portuguese version available in [LEIAME.md](LEIAME.md)
 
 ---
+# Disclaimer
+
+This software is a **personal project** created to meet specific needs in my workflow.  
+It is **not an official product of Waters Corporation**, and there is no sponsorship, partnership, or affiliation with the company.  
+Use of this software is at your own risk, and it **does not replace or modify any official Empower 3 functionality**.
+
+---
+
+# Security Notice
+
+This application captures **only a small region of the screen** in order to perform OCR on the pressure value displayed by the instrument software.
+
+- No screenshots are stored  
+- No data is logged  
+- No information is transmitted externally  
+- The program operates **entirely locally**
+
+---
+
 
 # Features
 
@@ -88,16 +107,6 @@ Example interface:
 
 ![Interface](docs/interface.png)
 
----
-
-# Security Notice
-
-This application captures **only a small region of the screen** in order to perform OCR on the pressure value displayed by the instrument software.
-
-- No screenshots are stored  
-- No data is logged  
-- No information is transmitted externally  
-- The program operates **entirely locally**
 
 ---
 

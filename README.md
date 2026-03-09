@@ -16,7 +16,9 @@ The program runs as a lightweight **transparent overlay window** that can be pos
 
 ## Demo
 
-![Demo](docs/Alliance.gif)
+<p align="center">
+  <img src="docs/Alliance.gif" width="800">
+</p>
 
 ---
 # Disclaimer

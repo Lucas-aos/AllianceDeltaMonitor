@@ -4,6 +4,8 @@
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+## Overview
+
 OCR-based pressure monitoring tool for **Waters Alliance HPLC instruments**.
 
 This tool reads the **pressure value displayed in the instrument software** using OCR and calculates pressure deltas over **30 and 60 seconds (PSI)** to help detect pressure instability during operation.
@@ -11,6 +13,10 @@ This tool reads the **pressure value displayed in the instrument software** usin
 The program runs as a lightweight **transparent overlay window** that can be positioned over the instrument software interface.
 
 🇧🇷 Portuguese version available in [LEIAME.md](LEIAME.md)
+
+## Demo
+
+![Demo](docs/Alliance.gif)
 
 ---
 # Disclaimer

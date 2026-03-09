@@ -59,15 +59,9 @@ This application captures **only a small region of the screen** in order to perf
 
 In the Empower 3 software, open the **Instrument Status** panel.
 
-This window can usually be accessed through one of the following menu paths:
+In case it's not already visible, this window can usually be accessed through the following menu:
 
-**Option 1**
-
-View → Instrument Status / Control Panel
-
-**Option 2**
-
-Instrument → Tools → Diagnostics → Instrument Status
+View → Toolbars → Flow/Pressure
 
 ---
 

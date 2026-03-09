@@ -10,6 +10,13 @@ Este programa lê o **valor de pressão exibido no software do instrumento** uti
 
 O programa funciona como uma **janela transparente leve**, que pode ser posicionada sobre a interface do software do instrumento.
 
+## Demo
+
+<p align="center">
+  <img src="docs/Alliance.gif" width="800">
+</p>
+
+
 ---
 
 # Funcionalidades
@@ -30,15 +37,9 @@ O programa funciona como uma **janela transparente leve**, que pode ser posicion
 
 No software Empower 3, abra o painel **Instrument Status**.
 
-Essa janela normalmente pode ser acessada através de um dos seguintes caminhos:
+Caso já não esteja disponível, essa janela normalmente pode ser acessada através do caminho abaixo:
 
-**Opção 1**
-
-View → Instrument Status / Control Panel
-
-**Opção 2**
-
-Instrument → Tools → Diagnostics → Instrument Status
+View → Toolbars → Flow/Pressure
 
 ---
 
